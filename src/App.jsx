@@ -357,7 +357,7 @@ function App() {
                 type="submit"
                 className="w-full bg-gradient-to-r from-blue-700 to-indigo-700 hover:from-blue-800 hover:to-indigo-800 text-white font-semibold py-4 rounded-xl shadow-lg hover:shadow-xl transition duration-300"
               >
-                Submit Registration chirag →
+                Submit Registration Lakhan gupta →
               </button>
 
             </form>
